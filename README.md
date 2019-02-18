@@ -9,3 +9,6 @@ Ver 1.2 -
 
 Ver 1.3 -
   Added basic webpage
+  
+Ver 1.4 -
+   Added some layout grids ot index.html to learn about grids.
